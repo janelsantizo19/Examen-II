@@ -15,7 +15,7 @@ var app = new Framework7({
 	panel: {
 		swipe: true,
 	},
-  	routes: [
+ routes: [
 		{
 		path: '/home/',
     	url: 'index.html',
@@ -40,7 +40,7 @@ var app = new Framework7({
 		path: '/ice-latte/',
     	url: 'ice-latte.html',
     	name: 'ice-latte',
-  		}
+  		}
 		
 		
 	],
